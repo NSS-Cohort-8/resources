@@ -11,6 +11,7 @@ NSS Cohort 8 Resources
 * [OOCSS](http://oocss.org/)
 
 ##### Articles
+* http://sass-guidelin.es/
 * http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
 * http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them/
 * http://www.phase2technology.com/blog/your-frontend-methodology-is-all-of-them-atomic-design-patternlab/
